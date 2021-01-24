@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![catimage](https://i.pinimg.com/originals/c6/21/ab/c621ab3a79974dd5966b7f5142be6e83.jpg)
 <!--
 **cassidybeni/cassidybeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
