@@ -1,4 +1,4 @@
-## Hi there. I'm Cassidy 👋🏽
+### Hi there. I'm Cassidy 👋🏽
 
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning PostgreSQL and React.
