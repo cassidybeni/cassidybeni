@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning PostgreSQL and React.
 - 👯 I’m looking to collaborate with other web developers.
-- 📫 How to reach me: <cebeni@buffalo.edu> or [Linkedin](https://www.linkedin.com/in/cassidy-beni-9b2287118/).
-
+- 🔗 Connect with me: <cebeni@buffalo.edu> or [Linkedin](https://www.linkedin.com/in/cassidy-beni-9b2287118/).
 ---
 
 ### Languages and Tools 🛠
