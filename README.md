@@ -1,4 +1,4 @@
-## Hello World! I'm Cassidy. 👋🏽
+## Hello World! I'm [Cassidy](https://cassidybeni.github.io/). 👋🏽
 
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning PostgreSQL and React.
