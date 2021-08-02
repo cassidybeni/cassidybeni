@@ -1,7 +1,7 @@
 ## Hello World! I'm [Cassidy](https://cassidybeni.github.io/). 👋🏽
 
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning PostgreSQL.
+- 🌱 I’m currently learning Express.
 - 👯 I’m looking to collaborate with other web developers.
 - 🔗 Connect with me: <cebeni@buffalo.edu> or [Linkedin](https://www.linkedin.com/in/cassidy-beni-9b2287118/).
 ---
