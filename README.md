@@ -6,7 +6,7 @@
 - 🔗 Connect with me: <cebeni@buffalo.edu> or [Linkedin](https://www.linkedin.com/in/cassidy-beni-9b2287118/).
 ---
 
-###🛠 Languages and Tools 🛠
+### 🛠 Languages and Tools 🛠
 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30" width="30"/>      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" width="40"/>        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" width="40"/>      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="30" width="30"/>    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="30" width="30"/> 
